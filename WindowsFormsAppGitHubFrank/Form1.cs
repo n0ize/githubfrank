@@ -15,6 +15,7 @@ namespace WindowsFormsAppGitHubFrank
         public Form1()
         {
             InitializeComponent();
+            //Hallo Frank! :D
         }
 
         private void button1_Click(object sender, EventArgs e)
